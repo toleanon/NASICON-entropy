@@ -163,10 +163,10 @@ Delta_Smix = n_M S_M + n_X S_X
 
 ## Data availability
 
-The curated dataset is not included in this repository. It is provided in the
-manuscript's Supplementary Information (Table S2), or available from the
-corresponding author on reasonable request. The scripts intentionally stop with
-a clear error if required inputs are missing.
+The curated dataset is not included in this repository. Access is described in
+the manuscript's data-availability statement. Required inputs are checked by the
+data and model stages; optional trajectory-dependent MLIP panels are skipped
+when local trajectories are absent.
 
 This is a code-only release; it does not include the curated dataset,
 trajectories, relaxed structures, trained model files, or generated results.

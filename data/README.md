@@ -47,6 +47,5 @@ The entropy output contains:
 
 ## Data availability
 
-The curated input table is provided in Supplementary Information Table S2 of
-the associated manuscript, or available from the corresponding author on
-reasonable request. It is not included here.
+The curated input table is not included here. Access is described in the
+manuscript's data-availability statement.
