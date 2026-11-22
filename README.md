@@ -11,7 +11,7 @@ data-availability notes.
 ## Repository layout
 
 ```text
-nasicon-data-processing/
+NASICON-entropy/
 ├── README.md
 ├── INSTALL.md
 ├── LICENSE
