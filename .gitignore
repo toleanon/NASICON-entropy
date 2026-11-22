@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local data and generated outputs
+data/*.csv
+data/entropy/*.csv
+model/processed/
+model/figures/
+screening/results/
+screening/figures/
+screening/seeds/
+mlip/results/
+mlip/figures/
+mlip/trajectories/
+mlip/seeds/
+*.traj
+*.xyz
+*.cif
+*.pdf
+*.docx
+*.zip
+
+# Local configuration
+.env
+.env.*
